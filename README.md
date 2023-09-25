@@ -1,0 +1,2 @@
+# Error-of-segmentation-when-i-execute-ww3_shel-with-two-kind-of-inputs-
+I want to forcing  wavewatch 3 model with 2 kind of inputs (current and wind). i generate two  binaries files  current.ww3 and wind.ww3 with same size.   when i  execute ww3_shel with one of these inputs  it work but when i execute ww3_shel with both kind of inputs i have this error "Program received signal SIGSEGV: Segmentation fault "
